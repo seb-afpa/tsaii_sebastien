@@ -1,0 +1,134 @@
+1.1
+b=4
+
+
+
+
+
+1.2
+
+c = 8
+
+c = 1
+
+
+
+
+1.3  
+
+B =9
+
+a =6
+
+b = 2
+
+
+
+
+1.4
+
+c = 13
+
+b = 13
+
+a = 13
+
+
+
+
+1.5 
+
+a = 2
+
+b = 2
+
+non ça ne change PAS LEUR VALEUR ET OUI SI ON INVERSE L ORDRE CA CHANGE LE RESULTAT
+
+
+
+1.6
+
+A←3
+B←4
+
+ON RAJOUTE C   c←a
+               a←b
+               b←c
+
+			   
+1.7
+
+d←a
+a←b
+b←c 
+
+
+1.8
+
+c←"435"
+
+pour le 1.8 et 1.9 probléme dans l'énoncer
+1.9
+
+"432 & 12 "
+
+
+2.1 
+
+231←231
+462←231*2
+
+
+
+2.2
+
+lireval←12
+ecrireVal←LireVal^² 
+
+
+
+2.3
+
+lireprixHT
+
+
+
+vos beaux yeux me font mourir d'amour belle marquise
+vos beaux yeux belle marquise me font mourir d'amour
+mourir d'amour me font vos beaux yeux belle marquise
+mourir d'amour belle marquise me font vos beau yeux
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
